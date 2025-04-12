@@ -1,5 +1,5 @@
 # task-2
-Healthcare AI Content Relevance Assessment Workflow
+Intelligent Content Discovery and Relevance Assessment
 
 Input Reception: The system receives a URL to a healthcare article for assessment.
 Content Extraction: Using requests and BeautifulSoup, the system extracts the text content from the article URL.
