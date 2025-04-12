@@ -35,3 +35,5 @@ Result Delivery: The system returns a structured response containing:
 The embedding similarity score
 The categorization and rationale analysis
 The article summary
+
+flowchart and video explanation is given in this repo
